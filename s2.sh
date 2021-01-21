@@ -1,0 +1,2 @@
+export x
+echo $x
